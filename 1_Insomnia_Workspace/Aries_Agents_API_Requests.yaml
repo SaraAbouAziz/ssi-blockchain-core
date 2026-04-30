@@ -1,0 +1,790 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Scratch Pad
+meta:
+  id: wrk_scratchpad
+  created: 1774184624359
+  modified: 1774184624359
+  description: ""
+collection:
+  - name: SmartMed - Acme Verifier
+    meta:
+      id: fld_181402ece2ec4c22973005a164b51a3c
+      created: 1774533287853
+      modified: 1774533439144
+      sortKey: -1774533287853
+      description: ""
+  - name: SmartMed - Acme Verifier
+    meta:
+      id: fld_1f8aa1c3844d4e8994f28550fccfa7c2
+      created: 1774533287853
+      modified: 1774533439144
+      sortKey: -1774533287853
+      description: ""
+  - name: SmartMed - Acme Verifier
+    meta:
+      id: fld_c81307ba042d43ed93e30ecc29d85800
+      created: 1774533287853
+      modified: 1774533439144
+      sortKey: -1774533287853
+      description: ""
+  - name: prova
+    meta:
+      id: fld_afd324a0050b4907be5b2c5dce1e73da
+      created: 1774533309429
+      modified: 1774533309429
+      sortKey: -1774533309429
+      description: ""
+  - name: prova
+    meta:
+      id: fld_d3e797515c564887a7e2d2ddf4fc6a96
+      created: 1774533309429
+      modified: 1774533309429
+      sortKey: -1774533309429
+      description: ""
+  - name: prova
+    meta:
+      id: fld_f88c8a6a454c49e886ef7c957de32be2
+      created: 1774533309429
+      modified: 1774533309429
+      sortKey: -1774533309429
+      description: ""
+  - name: SmartMed_v1.1
+    meta:
+      id: fld_5aa7b4e6239d4787b3d1c984c0e986a0
+      created: 1774766143050
+      modified: 1774990264932
+      sortKey: -1774766143050
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_d6b7ab9a4cbc4eacb05d6d4247bd835f
+          created: 1774805466753
+          modified: 1774813338382
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_0f5bc7d3a80944399a4656aa25fd5c04
+          created: 1774806032760
+          modified: 1774813341294
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_9cfd91be42f74312a15a5dee952f7f9a
+          created: 1774806395118
+          modified: 1774813342812
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_4b33229ab1af4ad5931f6a3988080343
+          created: 1774806867804
+          modified: 1774813344193
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_edb088125db64baf8b8221e2c0da3efb
+          created: 1774812756707
+          modified: 1774813345542
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_4e2426cc67374a3c8ba0e32b757542b7
+          created: 1774813312141
+          modified: 1774813334209
+          sortKey: -1774767846674
+          description: ""
+  - name: SmartMed - Prova
+    meta:
+      id: fld_8715253a2cbd4516901850ff359b9a07
+      created: 1774766143050
+      modified: 1775061666180
+      sortKey: -1774766143050
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_ef063bced9ad4f0592e4d91091c17dee
+          created: 1774805466753
+          modified: 1775045674598
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_41582e1a6cc64bee972a40fa0a59de76
+          created: 1774806032760
+          modified: 1774813341294
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_c721a8b8514f4c5abca305d2baae0442
+          created: 1774806395118
+          modified: 1774813342812
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_6f74f59f4c8f413ca8f4762349ce1978
+          created: 1774806867804
+          modified: 1774813344193
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_b9e74e26b36042109d2d2678b856618b
+          created: 1774812756707
+          modified: 1774813345542
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_1bc92088b52a41a0b6cd383cffc82aa2
+          created: 1774813312141
+          modified: 1774813334209
+          sortKey: -1774767846674
+          description: ""
+  - name: bk_SmartMed - Prova
+    meta:
+      id: fld_e4d33ec4b10544a795c7d909a249f6c3
+      created: 1775045690493
+      modified: 1775045690493
+      sortKey: -1774649726239.5
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_f757ae4844fe481e930d271462fa399f
+          created: 1775045690494
+          modified: 1775045690494
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_135a4d16cb2748099fed15b590781cd9
+          created: 1775045690498
+          modified: 1775045690498
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_09551381729c47c8b5de99dcb235ec3f
+          created: 1775045690500
+          modified: 1775045690500
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_57f8b5079ffe40d6a3ccb5969d281c3f
+          created: 1775045690502
+          modified: 1775045690502
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_5988685ded2740d0905a48ef745df7a7
+          created: 1775045690503
+          modified: 1775045690503
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_a6d165f67d6d4631b2569270bcac8fd1
+          created: 1775045690506
+          modified: 1775045690506
+          sortKey: -1774767846674
+          description: ""
+  - name: SmartMed_v2
+    meta:
+      id: fld_91f75556422848faaa456d2a5b5495c1
+      created: 1775062651886
+      modified: 1775062651886
+      sortKey: -1774707934644.75
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_ac0251987e174271bbccf1aed419cfd0
+          created: 1775062651887
+          modified: 1775062651887
+          sortKey: -1774767846774
+          description: ""
+        children:
+          - url: http://localhost:8021/wallet/did
+            name: 1. Retrieve the Local DID
+            meta:
+              id: req_7a448f39ce704e4f83fba930551ebd2e
+              created: 1775062651888
+              modified: 1775062651888
+              isPrivate: false
+              description: ""
+              sortKey: -1774805475359
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8021/wallet/did/create
+            name: 0. Create the DID
+            meta:
+              id: req_98c53ddb031f448abcf4538e7cf56193
+              created: 1775062651889
+              modified: 1775062651889
+              isPrivate: false
+              description: ""
+              sortKey: -1774805475459
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "method": "sov"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8021/wallet/did/public?did=RcS6Ry9hCj24qEXuq1oxh7
+            name: 2. Set the DID as Public on the Agent
+            meta:
+              id: req_6020c831200248a4aa74364469837c89
+              created: 1775062651890
+              modified: 1775062651890
+              isPrivate: false
+              description: ""
+              sortKey: -1774805475259
+            method: POST
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Phase 2
+        meta:
+          id: fld_a0be1f1d464b415b8f16abff0e9add7e
+          created: 1775062651890
+          modified: 1775062651890
+          sortKey: -1774767846724
+          description: ""
+        children:
+          - url: http://localhost:8021/credential-definitions
+            name: 4. Publish the Credential Definition
+            meta:
+              id: req_8ab234c73d454b26a4e872fc48708403
+              created: 1775062651891
+              modified: 1775062917007
+              isPrivate: false
+              description: ""
+              sortKey: -1774806112200
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                  "schema_id": "RcS6Ry9hCj24qEXuq1oxh7:2:Healthcare_Professional_License:2.0",
+                  "support_revocation": false,
+                  "tag": "official_medical_license_v2"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8021/schemas
+            name: 3. Publish the Schema
+            meta:
+              id: req_b3d9bb69491640f181189626cbd68abe
+              created: 1775062651891
+              modified: 1775062675083
+              isPrivate: false
+              description: ""
+              sortKey: -1774806112300
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "schema_name": "Healthcare_Professional_License",
+                  "schema_version": "2.0",
+                  "attributes": [
+                    "first_name",
+                    "last_name",
+                    "license_number",
+                    "issuing_authority",
+                    "issue_date",
+                    "role",
+                    "specialization",
+                    "clearance_level"
+                  ]
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Phase 3
+        meta:
+          id: fld_54b56ad4df6f49678dff88810bb990f1
+          created: 1775062651892
+          modified: 1775062651892
+          sortKey: -1774767846699
+          description: ""
+        children:
+          - url: http://localhost:8021/out-of-band/create-invitation
+            name: 5. Create the Invitation (MinistryOfHealth)
+            meta:
+              id: req_33a4d80761814116b6589fe6225350d2
+              created: 1775062651892
+              modified: 1775062651892
+              isPrivate: false
+              description: ""
+              sortKey: -1774806433592
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                  "handshake_protocols": [
+                    "https://didcomm.org/didexchange/1.0"
+                  ],
+                  "use_public_did": false
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8031/out-of-band/receive-invitation
+            name: 6. Receive the Invitation (MedicalProfessional)
+            meta:
+              id: req_bfcaeb0a7a7c49cf8e7ba4c36f57bc7c
+              created: 1775062651892
+              modified: 1775062741038
+              isPrivate: false
+              description: ""
+              sortKey: -1774806433542
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                		"@type": "https://didcomm.org/out-of-band/1.1/invitation",
+                		"@id": "30aa93d9-e89e-45f1-b21c-17f3f5a5898a",
+                		"label": "MinistryOfHealth",
+                		"handshake_protocols": [
+                			"https://didcomm.org/didexchange/1.0"
+                		],
+                		"services": [
+                			{
+                				"id": "#inline",
+                				"type": "did-communication",
+                				"recipientKeys": [
+                					"did:key:z6MkkUXVZqd4nnSPdmddjd7P3GgtE3s8qeHJVwGStoHBeaW3#z6MkkUXVZqd4nnSPdmddjd7P3GgtE3s8qeHJVwGStoHBeaW3"
+                				],
+                				"serviceEndpoint": "http://localhost:8020"
+                			}
+                		]
+                	}
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8021/connections
+            name: 7. Retrieve the active connection_id
+            meta:
+              id: req_03511ce76b844c27bf729aa4c6afe0a8
+              created: 1775062651893
+              modified: 1775062651893
+              isPrivate: false
+              description: ""
+              sortKey: -1774806433517
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Phase 4
+        meta:
+          id: fld_db75a8ee1a06423db27dcd1811ce27b8
+          created: 1775062651893
+          modified: 1775062651893
+          sortKey: -1774767846686.5
+          description: ""
+        children:
+          - url: http://localhost:8021/issue-credential-2.0/send
+            name: 8. Credential Issuance
+            meta:
+              id: req_7f87ae290fd04758b8ba797ac6eafcde
+              created: 1775062651894
+              modified: 1775063026663
+              isPrivate: false
+              description: ""
+              sortKey: -1774806904410
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                  "connection_id": "4342b34c-e15f-43b1-a80d-95339a21f041",
+                  "filter": {
+                    "indy": {
+                      "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2",
+                      "issuer_did": "RcS6Ry9hCj24qEXuq1oxh7"
+                    }
+                  },
+                  "credential_preview": {
+                    "@type": "https://didcomm.org/issue-credential/2.0/credential-preview",
+                    "attributes": [
+                      { "name": "first_name", "value": "Alice" },
+                      { "name": "last_name", "value": "Rossi" },
+                      { "name": "license_number", "value": "MED-ITA-2026-889900" },
+                      { "name": "issuing_authority", "value": "National Health Ministry" },
+                      { "name": "issue_date", "value": "2026-01-15" },
+                      { "name": "role", "value": "Senior Physician" },
+                      { "name": "specialization", "value": "Cardiology" },
+                      { "name": "clearance_level", "value": "Level-3-High" }
+                    ]
+                  },
+                  "auto_remove": false
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8031/credentials
+            name: 9. Check the Holder's Wallet
+            meta:
+              id: req_3ecccdad14a8454fb42f099609906e16
+              created: 1775062651896
+              modified: 1775062651896
+              isPrivate: false
+              description: ""
+              sortKey: -1774806904310
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Phase 5
+        meta:
+          id: fld_4fef6803e2ea452ab13ddc6da12c2355
+          created: 1775062651896
+          modified: 1775062651896
+          sortKey: -1774767846680.25
+          description: ""
+        children:
+          - url: http://localhost:8041/out-of-band/create-invitation
+            name: 10. Generate Connection Invite
+            meta:
+              id: req_cdd0f0d7e3e84c2394f276c84ca3f376
+              created: 1775062651897
+              modified: 1775062651897
+              isPrivate: false
+              description: ""
+              sortKey: -1774813009877
+            method: POST
+            body:
+              mimeType: application/json
+              text: |-
+                {
+                "handshake_protocols": [
+                "https://didcomm.org/didexchange/1.0"
+                ],
+                "use_public_did": false
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8041/connections
+            name: 12. Get Active Connections
+            meta:
+              id: req_3a475d9909d34c9ba3cd94339a773039
+              created: 1775062651898
+              modified: 1775062651898
+              isPrivate: false
+              description: ""
+              sortKey: -1774813009827
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8031/out-of-band/receive-invitation
+            name: 11. Accept Gateway Connection
+            meta:
+              id: req_81bb8bd7b3a743eab4b988015f0d1eda
+              created: 1775062651898
+              modified: 1775063079656
+              isPrivate: false
+              description: ""
+              sortKey: -1774813009852
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                		"@type": "https://didcomm.org/out-of-band/1.1/invitation",
+                		"@id": "81455b05-b0b8-40e5-b435-7275a74f919b",
+                		"label": "SmartMedGateway",
+                		"handshake_protocols": [
+                			"https://didcomm.org/didexchange/1.0"
+                		],
+                		"services": [
+                			{
+                				"id": "#inline",
+                				"type": "did-communication",
+                				"recipientKeys": [
+                					"did:key:z6Mkj5NiANDbTwJ7hnkzjHsn6CCSjW4bZGH6MKYk5LCyhr66#z6Mkj5NiANDbTwJ7hnkzjHsn6CCSjW4bZGH6MKYk5LCyhr66"
+                				],
+                				"serviceEndpoint": "http://localhost:8040"
+                			}
+                		]
+                	}
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+      - name: Phase 6
+        meta:
+          id: fld_3b9394ced76247be89a687a07ff453eb
+          created: 1775062651899
+          modified: 1775062651899
+          sortKey: -1774767846674
+          description: ""
+        children:
+          - url: http://localhost:8041/present-proof-2.0/send-request
+            name: 13. Presentation Request
+            meta:
+              id: req_5df9b56393fa40be98626a9c38585f45
+              created: 1775062651900
+              modified: 1775063219534
+              isPrivate: false
+              description: ""
+              sortKey: -1774813371519
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                  "connection_id": "2bdff46d-ec6b-49ec-a03f-1cdcbb135aca",
+                  "auto_remove": false,
+                  "presentation_request": {
+                    "indy": {
+                      "name": "EHR_Access_Validation",
+                      "version": "1.0",
+                      "requested_attributes": {
+                        "professional_role": {
+                          "name": "role",
+                          "restrictions": [
+                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
+                          ]
+                        },
+                        "medical_specialty": {
+                          "name": "specialization",
+                          "restrictions": [
+                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
+                          ]
+                        },
+                        "security_clearance": {
+                          "name": "clearance_level",
+                          "restrictions": [
+                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
+                          ]
+                        },
+                        "license_id": {
+                          "name": "license_number",
+                          "restrictions": [
+                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
+                          ]
+                        }
+                      },
+                      "requested_predicates": {}
+                    }
+                  }
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8041/present-proof-2.0/records/7a2dcdbe-cc90-40ae-bdec-434a3a9b650b
+            name: "14. Verified: True"
+            meta:
+              id: req_5f5c0b868ee24aa4aef8d607fc14572f
+              created: 1775062651901
+              modified: 1775063240722
+              isPrivate: false
+              description: ""
+              sortKey: -1774813371419
+            method: GET
+            headers:
+              - name: User-Agent
+                value: insomnia/12.4.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1774184701999
+    modified: 1774184701999
+environments:
+  name: Base Environment
+  meta:
+    id: env_99d30891da4bdcebc63947a8fc17f076de878684
+    created: 1774184701992
+    modified: 1774184701992
+    isPrivate: false
