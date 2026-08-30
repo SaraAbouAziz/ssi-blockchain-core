@@ -1,0 +1,84 @@
+services:
+  issuer:
+    image: ghcr.io/openwallet-foundation/acapy-agent:py3.12-nightly
+    container_name: acapy-issuer
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8020:8020"
+      - "8021:8021"
+    command: >
+      start
+      --label "MinistryOfHealth"
+      --inbound-transport http 0.0.0.0 8020
+      --outbound-transport http
+      --admin 0.0.0.0 8021
+      --admin-insecure-mode
+      --endpoint http://localhost:8020
+      --genesis-url http://host.docker.internal:9000/genesis
+      --wallet-type askar
+      --wallet-name MinistryWallet_SmartMed
+      --wallet-key MinistrySecretKey123
+      --auto-provision
+      --auto-accept-invites
+      --auto-accept-requests
+      --auto-store-credential
+      --auto-respond-credential-offer
+      --auto-respond-presentation-request
+      --log-level info
+
+  verifier:
+    image: ghcr.io/openwallet-foundation/acapy-agent:py3.12-nightly
+    container_name: acapy-verifier
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8040:8040"
+      - "8041:8041"
+    command: >
+      start
+      --label "SmartMedGateway"
+      --inbound-transport http 0.0.0.0 8040
+      --outbound-transport http
+      --admin 0.0.0.0 8041
+      --admin-insecure-mode
+      --endpoint http://localhost:8040
+      --genesis-url http://host.docker.internal:9000/genesis
+      --wallet-type askar
+      --wallet-name GatewayWallet_SmartMed
+      --wallet-key GatewaySecretKey123
+      --auto-provision
+      --auto-accept-invites
+      --auto-accept-requests
+      --auto-store-credential
+      --auto-respond-credential-offer
+      --auto-respond-presentation-request
+      --log-level info
+
+  holder:
+    image: ghcr.io/openwallet-foundation/acapy-agent:py3.12-nightly
+    container_name: acapy-holder
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8030:8030"
+      - "8031:8031"
+    command: >
+      start
+      --label "MedicalProfessional"
+      --inbound-transport http 0.0.0.0 8030
+      --outbound-transport http
+      --admin 0.0.0.0 8031
+      --admin-insecure-mode
+      --endpoint http://localhost:8030
+      --genesis-url http://host.docker.internal:9000/genesis
+      --wallet-type askar
+      --wallet-name ProfessionalWallet_SmartMed
+      --wallet-key ProfessionalSecretKey123
+      --auto-provision
+      --auto-accept-invites
+      --auto-accept-requests
+      --auto-store-credential
+      --auto-respond-credential-offer
+      --auto-respond-presentation-request
+      --log-level info
