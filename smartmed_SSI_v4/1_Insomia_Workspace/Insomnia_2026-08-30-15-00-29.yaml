@@ -7,148 +7,6 @@ meta:
   modified: 1774184624359
   description: ""
 collection:
-  - name: SmartMed - Acme Verifier
-    meta:
-      id: fld_181402ece2ec4c22973005a164b51a3c
-      created: 1774533287853
-      modified: 1774533439144
-      sortKey: -1774533287853
-      description: ""
-  - name: SmartMed - Acme Verifier
-    meta:
-      id: fld_1f8aa1c3844d4e8994f28550fccfa7c2
-      created: 1774533287853
-      modified: 1774533439144
-      sortKey: -1774533287853
-      description: ""
-  - name: SmartMed - Acme Verifier
-    meta:
-      id: fld_c81307ba042d43ed93e30ecc29d85800
-      created: 1774533287853
-      modified: 1774533439144
-      sortKey: -1774533287853
-      description: ""
-  - name: prova
-    meta:
-      id: fld_afd324a0050b4907be5b2c5dce1e73da
-      created: 1774533309429
-      modified: 1774533309429
-      sortKey: -1774533309429
-      description: ""
-  - name: prova
-    meta:
-      id: fld_d3e797515c564887a7e2d2ddf4fc6a96
-      created: 1774533309429
-      modified: 1774533309429
-      sortKey: -1774533309429
-      description: ""
-  - name: prova
-    meta:
-      id: fld_f88c8a6a454c49e886ef7c957de32be2
-      created: 1774533309429
-      modified: 1774533309429
-      sortKey: -1774533309429
-      description: ""
-  - name: SmartMed_v1.1
-    meta:
-      id: fld_5aa7b4e6239d4787b3d1c984c0e986a0
-      created: 1774766143050
-      modified: 1774990264932
-      sortKey: -1774766143050
-      description: ""
-    children:
-      - name: Phase 1
-        meta:
-          id: fld_d6b7ab9a4cbc4eacb05d6d4247bd835f
-          created: 1774805466753
-          modified: 1774813338382
-          sortKey: -1774767846774
-          description: ""
-      - name: Phase 2
-        meta:
-          id: fld_0f5bc7d3a80944399a4656aa25fd5c04
-          created: 1774806032760
-          modified: 1774813341294
-          sortKey: -1774767846724
-          description: ""
-      - name: Phase 3
-        meta:
-          id: fld_9cfd91be42f74312a15a5dee952f7f9a
-          created: 1774806395118
-          modified: 1774813342812
-          sortKey: -1774767846699
-          description: ""
-      - name: Phase 4
-        meta:
-          id: fld_4b33229ab1af4ad5931f6a3988080343
-          created: 1774806867804
-          modified: 1774813344193
-          sortKey: -1774767846686.5
-          description: ""
-      - name: Phase 5
-        meta:
-          id: fld_edb088125db64baf8b8221e2c0da3efb
-          created: 1774812756707
-          modified: 1774813345542
-          sortKey: -1774767846680.25
-          description: ""
-      - name: Phase 6
-        meta:
-          id: fld_4e2426cc67374a3c8ba0e32b757542b7
-          created: 1774813312141
-          modified: 1774813334209
-          sortKey: -1774767846674
-          description: ""
-  - name: SmartMed - Prova
-    meta:
-      id: fld_8715253a2cbd4516901850ff359b9a07
-      created: 1774766143050
-      modified: 1775061666180
-      sortKey: -1774766143050
-      description: ""
-    children:
-      - name: Phase 1
-        meta:
-          id: fld_ef063bced9ad4f0592e4d91091c17dee
-          created: 1774805466753
-          modified: 1775045674598
-          sortKey: -1774767846774
-          description: ""
-      - name: Phase 2
-        meta:
-          id: fld_41582e1a6cc64bee972a40fa0a59de76
-          created: 1774806032760
-          modified: 1774813341294
-          sortKey: -1774767846724
-          description: ""
-      - name: Phase 3
-        meta:
-          id: fld_c721a8b8514f4c5abca305d2baae0442
-          created: 1774806395118
-          modified: 1774813342812
-          sortKey: -1774767846699
-          description: ""
-      - name: Phase 4
-        meta:
-          id: fld_6f74f59f4c8f413ca8f4762349ce1978
-          created: 1774806867804
-          modified: 1774813344193
-          sortKey: -1774767846686.5
-          description: ""
-      - name: Phase 5
-        meta:
-          id: fld_b9e74e26b36042109d2d2678b856618b
-          created: 1774812756707
-          modified: 1774813345542
-          sortKey: -1774767846680.25
-          description: ""
-      - name: Phase 6
-        meta:
-          id: fld_1bc92088b52a41a0b6cd383cffc82aa2
-          created: 1774813312141
-          modified: 1774813334209
-          sortKey: -1774767846674
-          description: ""
   - name: bk_SmartMed - Prova
     meta:
       id: fld_e4d33ec4b10544a795c7d909a249f6c3
@@ -199,11 +57,111 @@ collection:
           modified: 1775045690506
           sortKey: -1774767846674
           description: ""
+  - name: SmartMed_v2_corr
+    meta:
+      id: fld_34f0a5e6f63949d58baee8ce168929bd
+      created: 1775062651886
+      modified: 1781285221881
+      sortKey: -1774707934644.75
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_58d7e5d08b41447fae8755ac25ff1ac9
+          created: 1775062651887
+          modified: 1775062651887
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_2d267875278b4a608b54cd9b8208075a
+          created: 1775062651890
+          modified: 1775062651890
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_cfa77a88a61547b69f0208c66d632ac2
+          created: 1775062651892
+          modified: 1775062651892
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_05d7b6603aac4627b44974ed14505747
+          created: 1775062651893
+          modified: 1775062651893
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_5ee438863cd6463489c85b2b19945461
+          created: 1775062651896
+          modified: 1775062651896
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_a82603bd7baa4a22ae0df97140115124
+          created: 1775062651899
+          modified: 1775062651899
+          sortKey: -1774767846674
+          description: ""
   - name: SmartMed_v2
+    meta:
+      id: fld_698ef96fb5924489a4be35e5d7e54807
+      created: 1775062651886
+      modified: 1775062651886
+      sortKey: -1774707934644.75
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_da69c829f3cd4460815c3be358df1d00
+          created: 1775062651887
+          modified: 1775062651887
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_7d8398f0635c4bc78adfb65efd3b2afb
+          created: 1775062651890
+          modified: 1775062651890
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_5c24368395ef4a9fbca1e65cb727c663
+          created: 1775062651892
+          modified: 1775062651892
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_1f9000ce94624583866de0eb5a83eceb
+          created: 1775062651893
+          modified: 1775062651893
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_4e7f32d3f97244bd84c2fc9f27a0a39c
+          created: 1775062651896
+          modified: 1775062651896
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_9ed457d008124746bd3d1899ab5eb865
+          created: 1775062651899
+          modified: 1775062651899
+          sortKey: -1774767846674
+          description: ""
+  - name: SmartMed_v3
     meta:
       id: fld_91f75556422848faaa456d2a5b5495c1
       created: 1775062651886
-      modified: 1775062651886
+      modified: 1786866027859
       sortKey: -1774707934644.75
       description: ""
     children:
@@ -220,7 +178,7 @@ collection:
             meta:
               id: req_7a448f39ce704e4f83fba930551ebd2e
               created: 1775062651888
-              modified: 1775062651888
+              modified: 1786902038615
               isPrivate: false
               description: ""
               sortKey: -1774805475359
@@ -243,7 +201,7 @@ collection:
             meta:
               id: req_98c53ddb031f448abcf4538e7cf56193
               created: 1775062651889
-              modified: 1775062651889
+              modified: 1787050901571
               isPrivate: false
               description: ""
               sortKey: -1774805475459
@@ -252,7 +210,10 @@ collection:
               mimeType: application/json
               text: |-
                 {
-                  "method": "sov"
+                  "method": "sov",
+                  "options": {
+                    "key_type": "ed25519"
+                  }
                 }
             headers:
               - name: Content-Type
@@ -269,12 +230,12 @@ collection:
                 send: true
                 store: true
               rebuildPath: true
-          - url: http://localhost:8021/wallet/did/public?did=RcS6Ry9hCj24qEXuq1oxh7
+          - url: http://localhost:8021/wallet/did/public?did=Kw4UQk6e5oTbbwRJFpnPS9
             name: 2. Set the DID as Public on the Agent
             meta:
               id: req_6020c831200248a4aa74364469837c89
               created: 1775062651890
-              modified: 1775062651890
+              modified: 1787051257687
               isPrivate: false
               description: ""
               sortKey: -1774805475259
@@ -388,7 +349,7 @@ collection:
             meta:
               id: req_33a4d80761814116b6589fe6225350d2
               created: 1775062651892
-              modified: 1775062651892
+              modified: 1787057261203
               isPrivate: false
               description: ""
               sortKey: -1774806433592
@@ -422,7 +383,7 @@ collection:
             meta:
               id: req_bfcaeb0a7a7c49cf8e7ba4c36f57bc7c
               created: 1775062651892
-              modified: 1775062741038
+              modified: 1787300176445
               isPrivate: false
               description: ""
               sortKey: -1774806433542
@@ -432,7 +393,7 @@ collection:
               text: >-
                 {
                 		"@type": "https://didcomm.org/out-of-band/1.1/invitation",
-                		"@id": "30aa93d9-e89e-45f1-b21c-17f3f5a5898a",
+                		"@id": "930c87f8-e1b5-41c3-8f5d-24493b2f5c19",
                 		"label": "MinistryOfHealth",
                 		"handshake_protocols": [
                 			"https://didcomm.org/didexchange/1.0"
@@ -442,9 +403,9 @@ collection:
                 				"id": "#inline",
                 				"type": "did-communication",
                 				"recipientKeys": [
-                					"did:key:z6MkkUXVZqd4nnSPdmddjd7P3GgtE3s8qeHJVwGStoHBeaW3#z6MkkUXVZqd4nnSPdmddjd7P3GgtE3s8qeHJVwGStoHBeaW3"
+                					"did:key:z6Mkk9uwcpit9dnbZhKjo7EUMsm3nouoDupcpodXCjcEHzct#z6Mkk9uwcpit9dnbZhKjo7EUMsm3nouoDupcpodXCjcEHzct"
                 				],
-                				"serviceEndpoint": "http://localhost:8020"
+                				"serviceEndpoint": "http://ministry_agent:8020"
                 			}
                 		]
                 	}
@@ -466,12 +427,12 @@ collection:
           - url: http://localhost:8021/connections
             name: 7. Retrieve the active connection_id
             meta:
-              id: req_03511ce76b844c27bf729aa4c6afe0a8
-              created: 1775062651893
-              modified: 1775062651893
+              id: req_b550a6428f5e44a383f7ffb86b89412d
+              created: 1787058151926
+              modified: 1787058151926
               isPrivate: false
               description: ""
-              sortKey: -1774806433517
+              sortKey: -1774806272908.5
             method: GET
             headers:
               - name: User-Agent
@@ -495,38 +456,44 @@ collection:
           description: ""
         children:
           - url: http://localhost:8021/issue-credential-2.0/send
-            name: 8. Credential Issuance
+            name: mod_8. Credential Issuance
             meta:
               id: req_7f87ae290fd04758b8ba797ac6eafcde
               created: 1775062651894
-              modified: 1775063026663
+              modified: 1781286911652
               isPrivate: false
               description: ""
               sortKey: -1774806904410
             method: POST
             body:
               mimeType: application/json
-              text: >-
+              text: |-
                 {
-                  "connection_id": "4342b34c-e15f-43b1-a80d-95339a21f041",
+                  "connection_id": "YOUR_CONNECTION_ID_HERE",
                   "filter": {
-                    "indy": {
-                      "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2",
-                      "issuer_did": "RcS6Ry9hCj24qEXuq1oxh7"
+                    "ld_proof": {
+                      "credential": {
+                        "@context": [
+                          "https://www.w3.org/2018/credentials/v1"
+                        ],
+                        "type": [
+                          "VerifiableCredential"
+                        ],
+                        "credentialSubject": {
+                          "first_name": "Alice",
+                          "last_name": "Rossi",
+                          "license_number": "MED-ITA-2026-889900",
+                          "issuing_authority": "National Health Ministry",
+                          "issue_date": "2026-01-15",
+                          "role": "Senior Physician",
+                          "specialization": "Cardiology",
+                          "clearance_level": "Level-3-High"
+                        }
+                      },
+                      "options": {
+                        "proofPurpose": "assertionMethod"
+                      }
                     }
-                  },
-                  "credential_preview": {
-                    "@type": "https://didcomm.org/issue-credential/2.0/credential-preview",
-                    "attributes": [
-                      { "name": "first_name", "value": "Alice" },
-                      { "name": "last_name", "value": "Rossi" },
-                      { "name": "license_number", "value": "MED-ITA-2026-889900" },
-                      { "name": "issuing_authority", "value": "National Health Ministry" },
-                      { "name": "issue_date", "value": "2026-01-15" },
-                      { "name": "role", "value": "Senior Physician" },
-                      { "name": "specialization", "value": "Cardiology" },
-                      { "name": "clearance_level", "value": "Level-3-High" }
-                    ]
                   },
                   "auto_remove": false
                 }
@@ -550,7 +517,7 @@ collection:
             meta:
               id: req_3ecccdad14a8454fb42f099609906e16
               created: 1775062651896
-              modified: 1775062651896
+              modified: 1786901680306
               isPrivate: false
               description: ""
               sortKey: -1774806904310
@@ -688,52 +655,61 @@ collection:
           description: ""
         children:
           - url: http://localhost:8041/present-proof-2.0/send-request
-            name: 13. Presentation Request
+            name: mod_13. Presentation Request
             meta:
               id: req_5df9b56393fa40be98626a9c38585f45
               created: 1775062651900
-              modified: 1775063219534
+              modified: 1787058329208
               isPrivate: false
               description: ""
               sortKey: -1774813371519
             method: POST
             body:
               mimeType: application/json
-              text: >-
+              text: |-
                 {
-                  "connection_id": "2bdff46d-ec6b-49ec-a03f-1cdcbb135aca",
+                  "connection_id": "YOUR_CONNECTION_ID_HERE",
                   "auto_remove": false,
                   "presentation_request": {
-                    "indy": {
-                      "name": "EHR_Access_Validation",
-                      "version": "1.0",
-                      "requested_attributes": {
-                        "professional_role": {
-                          "name": "role",
-                          "restrictions": [
-                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
-                          ]
-                        },
-                        "medical_specialty": {
-                          "name": "specialization",
-                          "restrictions": [
-                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
-                          ]
-                        },
-                        "security_clearance": {
-                          "name": "clearance_level",
-                          "restrictions": [
-                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
-                          ]
-                        },
-                        "license_id": {
-                          "name": "license_number",
-                          "restrictions": [
-                            { "cred_def_id": "RcS6Ry9hCj24qEXuq1oxh7:3:CL:3153182:official_medical_license_v2" }
-                          ]
-                        }
-                      },
-                      "requested_predicates": {}
+                    "dif": {
+                      "presentation_definition": {
+                        "id": "EHR_Access_Validation",
+                        "name": "EHR_Access_Validation",
+                        "input_descriptors": [
+                          {
+                            "id": "medical_license_requirements",
+                            "purpose": "EHR Access Validation",
+                            "constraints": {
+                              "fields": [
+                                {
+                                  "id": "professional_role",
+                                  "path": [
+                                    "$.credentialSubject.role"
+                                  ]
+                                },
+                                {
+                                  "id": "medical_specialty",
+                                  "path": [
+                                    "$.credentialSubject.specialization"
+                                  ]
+                                },
+                                {
+                                  "id": "security_clearance",
+                                  "path": [
+                                    "$.credentialSubject.clearance_level"
+                                  ]
+                                },
+                                {
+                                  "id": "license_id",
+                                  "path": [
+                                    "$.credentialSubject.license_number"
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
                     }
                   }
                 }
@@ -757,7 +733,7 @@ collection:
             meta:
               id: req_5f5c0b868ee24aa4aef8d607fc14572f
               created: 1775062651901
-              modified: 1775063240722
+              modified: 1786911339263
               isPrivate: false
               description: ""
               sortKey: -1774813371419
@@ -775,6 +751,258 @@ collection:
                 send: true
                 store: true
               rebuildPath: true
+          - url: http://localhost:8041/connections/5542133b-fb39-410e-9493-9a6f18d7b065/send-message
+            name: 16. Send JWT to Holder
+            meta:
+              id: req_2ebc7fb23a014444a0e48a591cee5528
+              created: 1781285347362
+              modified: 1786917719468
+              isPrivate: false
+              description: ""
+              sortKey: -1774813371219
+            method: POST
+            body:
+              mimeType: application/json
+              text: >-
+                {
+                  "content": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJlMzBSNDVqd2tFLXA4dXUwWVRpVTRrVFc1Zk5nbmtsZEltajhwZE15eGprIn0.eyJleHAiOjE3ODEyOTYwMzMsImlhdCI6MTc4MTI5NTczMywianRpIjoidHJydGNjOjE2NDdiYmRiLTgzYjUtNTY4YS02OTVjLTIxYmI0ZjBmOTZmYiIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MC9hdXRoL3JlYWxtcy9TbWFydE1lZCIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJiYTYwMTA2Yi05Y2Y1LTRkNjktOTlmNi1iMmZkOWQyZWE1ZWQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJob3NwaXRhbCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJvZmZsaW5lX2FjY2VzcyIsImRlZmF1bHQtcm9sZXMtc21hcnRtZWQiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsImNsaWVudEhvc3QiOiIxNzIuMTcuMC4xIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJzZXJ2aWNlLWFjY291bnQtaG9zcGl0YWwiLCJjbGllbnRBZGRyZXNzIjoiMTcyLjE3LjAuMSIsImNsaWVudF9pZCI6Imhvc3BpdGFsIn0.R6utieiwmxV3S_R5iwOwbOtTxz1qhPfYim0ap1C6WuIkNs1ND73_yQBl2vBRg5P0f5Muocxu9DROLf0qmFnbqgkE4n-Ks7Mx9fj7rj67nWKmAy5EJBFx2JFsbby7qs_rq-DybwtnEbRHt9C6VHQR5MS86E6e9ELJC24JlvP3gD8kRRjqgbQNmQ_sPYo3iRjGODln14a8C5E_9Eq4JYHyHVMqUsJeJWcaaiiXe478jZHYwtH_YvGhhiex0Kv1zpuP9rsh6HcuYseuvHae0buyyee6f1EFXtQoGpDhEDoUiE8eVUV1176mp2qLKiI0_q1Xn_3SHHV1bpuP9Z0CWEVqVw"
+                }
+            headers:
+              - name: Content-Type
+                value: application/json
+              - name: User-Agent
+                value: insomnia/12.5.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8080/auth/realms/SmartMed/protocol/openid-connect/token
+            name: 15. Exchange Proof for JWT
+            meta:
+              id: req_11cd34dfc7fd4121a94ebbc5902c4990
+              created: 1781285355564
+              modified: 1787835092622
+              isPrivate: false
+              description: ""
+              sortKey: -1774813371319
+            method: POST
+            body:
+              mimeType: application/x-www-form-urlencoded
+              params:
+                - name: grant_typepair_468c4011c8604279b048f052a4af78c4
+                  value: client_credentials
+                  description: ""
+                  disabled: false
+                - name: client_id
+                  value: hospital
+                  description: ""
+                  disabled: false
+                - name: client_secret
+                  value: vWLKJTRnLqkvpyjGV6oWaKKREOpCzSAj
+                  description: ""
+                  disabled: true
+                - name: pair_8d330dcb932b4736ac06ea6e55646396client_assertion_type
+                  value: urn:ietf:params:oauth:client-assertion-type:jwt-bearer
+                  description: ""
+                  disabled: false
+                - name: client_assertion
+                  value: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJob3NwaXRhbCIsInN1YiI6Imhvc3BpdGFsIiwianRpIjoidG9rZW4tdGVzdC0zIiwiZXhwIjoxODkzNDU2MDAwfQ.Ty6SaH_b-dY77KBEXQZz67VvTlBKoOppuq0YIeJ_oaaUbsi0U7vtRTBbE7z90RfFFwYoC4uBJm5o3KVkPS9_meHXcZ77o-76tmouk3k6vZrmX-SuZvkk4pSP9FSIsy1xY8vjtGiyhJl2b5jkWcs5V9hGYpnzujyY7MTViVKoVi8Htlzeb5a0vvFFRt2JZvRRWOKtpOyI5TkbsurEU912vQcKvfZ8cq7y69DcqInKACL5xxFCL6RgnE0ViDxJLTqfYP4WpTisr6j0dtq6QRdEtgwYZltor9LZnt02qzxZHbT4PHwuqQz3MbTzSEjKWemZmAh6AAk5wqyI7uEkbW-QMw
+                  description: ""
+                  disabled: false
+            headers:
+              - name: Content-Type
+                value: application/x-www-form-urlencoded
+              - name: User-Agent
+                value: insomnia/12.5.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+          - url: http://localhost:8080/auth/realms/SmartMed/protocol/openid-connect/token
+            name: New Request
+            meta:
+              id: req_302e7b09530f45ac9ab68df55dea627e
+              created: 1781366431609
+              modified: 1781369982106
+              isPrivate: false
+              description: ""
+              sortKey: -1774813371269
+            method: POST
+            body:
+              mimeType: application/x-www-form-urlencoded
+              params:
+                - name: grant_type
+                  value: client_credentials
+                  description: ""
+                  disabled: false
+                - name: client_id
+                  value: hospital-v2
+                  description: ""
+                  disabled: false
+                - name: client_assertion_type
+                  value: urn:ietf:params:oauth:client-assertion-type:jwt-bearer
+                  description: ""
+                  disabled: false
+                - name: client_assertion
+                  value: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJob3NwaXRhbC12MiIsInN1YiI6Imhvc3BpdGFsLXYyIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL2F1dGgvcmVhbG1zL1NtYXJ0TWVkIiwianRpIjoidG9rZW4tZmluYWxlLTMiLCJleHAiOjE4OTM0NTYwMDB9.AznTuNhFsFfo6nLEdzn4zM7PdztdslAW-4RxXChUtn8UipGyNziGcwSarzgEmEuXiSxq5nHJJ5_iYp94Hmkw5I2L0DfWvvZOGsx4qPBcTIXlApUab0kn408K_JiZ3w8eLhedEjS5oW0yCDItGVJ4AimXKIo-Txjl2xQAbGzgoQYOJlyHyubwCLeWvnqN_kj_BHA1xXVa0ihqVTVZjxBkQ5PeI_vq21z0VfuvKlmOUsy9q8OtQXEqcAyD6NbaxjV4IHUOCNpBMLB7R6YJg9Yj5rL-13SzvVl8PuREw395YfuYTlLyiT3G_n5JUOZAtcGlPl_kwNozeZqWr2_0oaJ0IQ
+                  description: ""
+                  disabled: false
+            headers:
+              - name: Content-Type
+                value: application/x-www-form-urlencoded
+              - name: User-Agent
+                value: insomnia/12.6.0
+                description: ""
+                disabled: false
+            settings:
+              renderRequestBody: true
+              encodeUrl: true
+              followRedirects: global
+              cookies:
+                send: true
+                store: true
+              rebuildPath: true
+  - name: template_SmartMed_v3
+    meta:
+      id: fld_f6daaca6075e4131aa5d0a57b02c7e2e
+      created: 1781290636796
+      modified: 1781290636796
+      sortKey: -1774678830442.125
+      description: ""
+    children:
+      - name: Phase 3
+        meta:
+          id: fld_288cc1a7f4584a7c8664d293384d7732
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 1
+        meta:
+          id: fld_3a2dbf6b3b484d5fb8b179f859552a48
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_5911bd5cc10e4800be16227a7f332aba
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_6c45df458cd0447889825b3b2d33ae9f
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846674
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_ccec82ba8c9f4135a78a04ed606992ce
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 4
+        meta:
+          id: fld_e8a0a5f6b7ce4e6cba12813733f79619
+          created: 1781290636796
+          modified: 1781290636796
+          sortKey: -1774767846686.5
+          description: ""
+  - name: test_SmartMed_v3
+    meta:
+      id: fld_c729ce350f73432a8fb633e171d8bdca
+      created: 1781380528560
+      modified: 1781380528560
+      sortKey: -1774664278340.8125
+      description: ""
+    children:
+      - name: Phase 4
+        meta:
+          id: fld_13dc6cb0339643e187ddbf6cfeb48f55
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846686.5
+          description: ""
+      - name: Phase 5
+        meta:
+          id: fld_16ff85858a9b49f4b11b7aa2b527ca5f
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846680.25
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_2677c71290b04af883a33706fd6b0018
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846724
+          description: ""
+      - name: Phase 3
+        meta:
+          id: fld_b4bb85b1ae5b4f5fb2c7b3d37cec2db7
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846699
+          description: ""
+      - name: Phase 1
+        meta:
+          id: fld_dbd3362239c04e4b866df90c093a02fd
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846774
+          description: ""
+      - name: Phase 6
+        meta:
+          id: fld_fc04c00356be4dcbb64813237a57e58c
+          created: 1781380528560
+          modified: 1781380528560
+          sortKey: -1774767846674
+          description: ""
+  - name: modifiche_prova
+    meta:
+      id: fld_57f081b8175e464491a1414b48be9485
+      created: 1786640091240
+      modified: 1786640091240
+      sortKey: -1786640091240
+      description: ""
+  - name: SmartMed_v4
+    meta:
+      id: fld_756be461b69d4f68bd9f3aff26c03fcb
+      created: 1787052404394
+      modified: 1787052404394
+      sortKey: -1787052404394
+      description: ""
+    children:
+      - name: Phase 1
+        meta:
+          id: fld_05e03a60ce34433f8837a1523128191f
+          created: 1787057169317
+          modified: 1787057169317
+          sortKey: -1787057169317
+          description: ""
+      - name: Phase 2
+        meta:
+          id: fld_3b8942aad51c4bf483e4777e25795a71
+          created: 1787058230202
+          modified: 1787058237019
+          sortKey: -1787057169417
+          description: ""
 cookieJar:
   name: Default Jar
   meta:
